@@ -1,0 +1,239 @@
+﻿@model FhirXChangerService.Model.FhirViewerModel
+@{
+    ViewData["Title"] = "FhirXChangerViewer";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+</head>
+<body>
+
+    <div class="container">
+        <div class="navbar-header">
+            <nav class="navbar navbar-light bg-light">
+                <span class="navbar-brand mb-0 h1" style="color: #0062cc;border-color: #005cbf;">Fhir Resource Viewer</span>
+            </nav>
+        </div>
+    </div>
+
+    <div class="container body-content">
+        <ul class="nav nav-tabs">
+            <li class="active"><a data-toggle="tab" href="#@Model.Patient.TypeName">@Model.Patient.TypeName</a></li>
+            <li><a data-toggle="tab" href="#@Model.AllergyInfo.TypeName">@Model.AllergyInfo.TypeName</a></li>
+            <li><a data-toggle="tab" href="#@Model.RelatedPerson.TypeName">@Model.RelatedPerson.TypeName</a></li>
+            <li><a data-toggle="tab" href="#@Model.Organization.TypeName">@Model.Organization.TypeName</a></li>
+        </ul>
+        <div class="tab-content">
+            <div id=@Model.Patient.TypeName class="tab-pane fade in active">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th scope="col">@Model.Patient.TypeName Details</th>
+                            <th scope="col"></th>
+                            <th scope="col"></th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Patient ID</td>
+                            <td>@Model.Patient.Id</td>
+                        </tr>
+                        <tr>
+                            <td>Patient Name</td>
+                            <td>@Model.Patient.Name[0]</td>
+                        </tr>
+                        <tr>
+                            <td>Patient Date Of Birth</td>
+                            <td>@Model.Patient.BirthDate</td>
+                        </tr>
+                        <tr>
+                            <td>Gender</td>
+                            <td>@Model.Patient.Gender</td>
+                        </tr>
+                        <tr>
+                            <td>Patient Address</td>
+                            <td>
+                                @foreach (var items in Model.Patient.Address)
+                                {
+                                    foreach (var add in items.Line)
+                                    {
+                                        <text> @add /    </text>
+                                    }
+                                    <text> @items.City / @items.State / @items.Country / @items.PostalCode </text>
+                                }
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Patient Telecom</td>
+                            <td>
+                                @foreach (var items in Model.Patient.Telecom)
+                                {
+                                    <text> @items.Value </text>
+                                }
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div id=@Model.AllergyInfo.TypeName class="tab-pane fade">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th scope="col">@Model.AllergyInfo.TypeName Details</th>
+                            <th scope="col"></th>
+                            <th scope="col"></th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Allergy ID</td>
+                            <td>@Model.AllergyInfo.Id</td>
+                        </tr>
+                        <tr>
+                            <td>ClinicalStatus</td>
+                            <td>@Model.AllergyInfo.ClinicalStatus</td>
+                        </tr>
+                        <tr>
+                            <td>Type</td>
+                            <td>@Model.AllergyInfo.Type</td>
+                        </tr>
+                        <tr>
+                            <td>Record DateTime</td>
+                            <td>@Model.AllergyInfo.AssertedDate</td>
+                        </tr>
+                        <tr>
+                            <td>Reaction</td>
+                            <td>
+                                @foreach (var items in Model.AllergyInfo.Reaction)
+                                {
+                                    foreach (var manifest in items.Manifestation)
+                                    {
+                                        foreach (var code in manifest.Coding)
+                                        {
+                                            @code.Display
+                                        }
+                                    }
+                                }
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Severity</td>
+                            <td>
+                                @foreach (var items in Model.AllergyInfo.Reaction)
+                                {
+                                    @items.Severity
+                                }
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div id=@Model.RelatedPerson.TypeName class="tab-pane fade">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th scope="col">@Model.RelatedPerson.TypeName Details</th>
+                            <th scope="col"></th>
+                            <th scope="col"></th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>RelatedPerson ID</td>
+                            <td>@Model.RelatedPerson.Id</td>
+                        </tr>
+                        <tr>
+                            <td>Name</td>
+                            <td>@Model.RelatedPerson.Name[0]</td>
+                        </tr>
+                        <tr>
+                            <td>Address</td>
+                            <td>
+                                @foreach (var items in Model.RelatedPerson.Address)
+                                {
+                                    foreach (var add in items.Line)
+                                    {
+                                        <text> @add /    </text>
+                                    }
+                                    <text> @items.City / @items.State / @items.Country / @items.PostalCode</text>
+                                }
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Telecom</td>
+                            <td>
+                                @foreach (var items in Model.RelatedPerson.Telecom)
+                                {
+                                    <text> @items.Value </text>
+                                }
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div id=@Model.Organization.TypeName class="tab-pane fade">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th scope="col">@Model.Organization.TypeName Details</th>
+                            <th scope="col"></th>
+                            <th scope="col"></th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Organization ID</td>
+                            <td>@Model.Organization.Id</td>
+                        </tr>
+                        <tr>
+                            <td>Name</td>
+                            <td>@Model.Organization.Name</td>
+                        </tr>
+                        <tr>
+                            <td>Active</td>
+                            <td>@Model.Organization.Active</td>
+                        </tr>
+                        <tr>
+                            <td>Address</td>
+                            <td>
+                                @foreach (var items in Model.Organization.Address)
+                                {
+                                    foreach (var add in items.Line)
+                                    {
+                                        <text> @add /    </text>
+                                    }
+                                    <text> @items.City / @items.State / @items.Country / @items.PostalCode</text>
+                                }
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Telecom</td>
+                            <td>
+                                @foreach (var items in Model.Organization.Telecom)
+                                {
+                                    <text> @items.Value </text>
+                                }
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Pipeliners</p>
+        </footer>
+    </div>
+
+</body>
+</html>

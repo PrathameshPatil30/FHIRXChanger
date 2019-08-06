@@ -1,0 +1,44 @@
+﻿@model FhirXChangerService.Model.FhirViewerModel
+@{
+    ViewData["Title"] = "FhirXChangerViewer";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <nav class="navbar navbar-light bg-light">
+                    <span class="navbar-brand mb-0 h1" style="color: #0062cc;border-color: #005cbf;">Fhir Resource Viewer</span>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <div class="container body-content">
+        <br />
+        @using (Html.BeginForm("FhirDataViewer", "FhirViewer", FormMethod.Post))
+        {
+            <form class="form-inline">
+                <div class="form-group row">
+                    <label class="col-sm-2 col-form-label col-form-label-lg">Enter Bundle ID : </label>
+                    <div class="col-sm-8">
+                        @Html.TextBoxFor(m => m.Id, new { @class = "form-control form-control-lg", required = "required" })                 
+                    </div>
+                    <input type="submit" class="btn btn-primary" value="Get Data" />
+                </div>         
+            </form>
+        }
+    </div>
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>
