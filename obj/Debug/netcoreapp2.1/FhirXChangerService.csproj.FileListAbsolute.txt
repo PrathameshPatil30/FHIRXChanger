@@ -1,0 +1,87 @@
+C:\Users\US21795\source\repos\FhirXChangerService\FhirXChangerService\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.deps.json
+C:\Users\US21795\source\repos\FhirXChangerService\FhirXChangerService\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.runtimeconfig.json
+C:\Users\US21795\source\repos\FhirXChangerService\FhirXChangerService\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.runtimeconfig.dev.json
+C:\Users\US21795\source\repos\FhirXChangerService\FhirXChangerService\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.dll
+C:\Users\US21795\source\repos\FhirXChangerService\FhirXChangerService\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.csprojAssemblyReference.cache
+C:\Users\US21795\source\repos\FhirXChangerService\FhirXChangerService\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.csproj.CoreCompileInputs.cache
+C:\Users\US21795\source\repos\FhirXChangerService\FhirXChangerService\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.RazorAssemblyInfo.cache
+C:\Users\US21795\source\repos\FhirXChangerService\FhirXChangerService\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.RazorAssemblyInfo.cs
+C:\Users\US21795\source\repos\FhirXChangerService\FhirXChangerService\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.AssemblyInfoInputs.cache
+C:\Users\US21795\source\repos\FhirXChangerService\FhirXChangerService\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.AssemblyInfo.cs
+C:\Users\US21795\source\repos\FhirXChangerService\FhirXChangerService\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.RazorTargetAssemblyInfo.cache
+C:\Users\US21795\source\repos\FhirXChangerService\FhirXChangerService\FhirXChangerService\bin\Debug\netcoreapp2.1\specification.zip
+C:\Users\US21795\source\repos\FhirXChangerService\FhirXChangerService\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.pdb
+C:\Users\US21795\source\repos\FhirXChangerService\FhirXChangerService\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.dll
+C:\Users\US21795\source\repos\FhirXChangerService\FhirXChangerService\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.pdb
+C:\Users\US21795\source\repos\FhirXChangerService\FhirXChangerService\FhirXChangerService\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+\\R1-UEM-1.accretivehealth.local\redirection$\US22641\Desktop\FhirXChangerGit\FhirXChangerService\bin\Debug\netcoreapp2.1\specification.zip
+\\R1-UEM-1.accretivehealth.local\redirection$\US22641\Desktop\FhirXChangerGit\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.deps.json
+\\R1-UEM-1.accretivehealth.local\redirection$\US22641\Desktop\FhirXChangerGit\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.runtimeconfig.json
+\\R1-UEM-1.accretivehealth.local\redirection$\US22641\Desktop\FhirXChangerGit\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.runtimeconfig.dev.json
+\\R1-UEM-1.accretivehealth.local\redirection$\US22641\Desktop\FhirXChangerGit\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.dll
+\\R1-UEM-1.accretivehealth.local\redirection$\US22641\Desktop\FhirXChangerGit\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.pdb
+\\R1-UEM-1.accretivehealth.local\redirection$\US22641\Desktop\FhirXChangerGit\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.csprojAssemblyReference.cache
+\\R1-UEM-1.accretivehealth.local\redirection$\US22641\Desktop\FhirXChangerGit\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.csproj.CoreCompileInputs.cache
+\\R1-UEM-1.accretivehealth.local\redirection$\US22641\Desktop\FhirXChangerGit\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.RazorAssemblyInfo.cache
+\\R1-UEM-1.accretivehealth.local\redirection$\US22641\Desktop\FhirXChangerGit\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.RazorAssemblyInfo.cs
+\\R1-UEM-1.accretivehealth.local\redirection$\US22641\Desktop\FhirXChangerGit\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.AssemblyInfoInputs.cache
+\\R1-UEM-1.accretivehealth.local\redirection$\US22641\Desktop\FhirXChangerGit\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.AssemblyInfo.cs
+\\R1-UEM-1.accretivehealth.local\redirection$\US22641\Desktop\FhirXChangerGit\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.RazorTargetAssemblyInfo.cache
+\\R1-UEM-1.accretivehealth.local\redirection$\US22641\Desktop\FhirXChangerGit\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.dll
+\\R1-UEM-1.accretivehealth.local\redirection$\US22641\Desktop\FhirXChangerGit\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.pdb
+\\R1-UEM-1.accretivehealth.local\redirection$\US22641\Desktop\FhirXChangerGit\FhirXChangerService\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+\\R1-UEM-1.accretivehealth.local\redirection$\US22641\Desktop\FhirXChangerGit\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.xml
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\bin\Debug\netcoreapp2.1\specification.zip
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.deps.json
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.runtimeconfig.json
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.runtimeconfig.dev.json
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.dll
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.pdb
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.xml
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.Views.dll
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.Views.pdb
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.csproj.CoreCompileInputs.cache
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.RazorAssemblyInfo.cache
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.RazorAssemblyInfo.cs
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.AssemblyInfoInputs.cache
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.AssemblyInfo.cs
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.TagHelpers.input.cache
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.TagHelpers.output.cache
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.RazorCoreGenerate.cache
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\obj\Debug\netcoreapp2.1\Razor\Views\FhirViewer\FhirDataViewer.g.cshtml.cs
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\obj\Debug\netcoreapp2.1\Razor\Views\FhirViewer\Index.g.cshtml.cs
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.RazorTargetAssemblyInfo.cache
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.RazorTargetAssemblyInfo.cs
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.Views.pdb
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.dll
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.pdb
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.csproj.CopyComplete
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.csprojAssemblyReference.cache
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\bin\Debug\netcoreapp2.1\specification.zip
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.deps.json
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.runtimeconfig.json
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.runtimeconfig.dev.json
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.dll
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.pdb
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.xml
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.Views.dll
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\bin\Debug\netcoreapp2.1\FhirXChangerService.Views.pdb
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.csproj.CoreCompileInputs.cache
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.RazorAssemblyInfo.cache
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.RazorAssemblyInfo.cs
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.AssemblyInfoInputs.cache
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.AssemblyInfo.cs
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.TagHelpers.input.cache
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.TagHelpers.output.cache
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.RazorCoreGenerate.cache
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\obj\Debug\netcoreapp2.1\Razor\Views\FhirViewer\FhirDataViewer.g.cshtml.cs
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\obj\Debug\netcoreapp2.1\Razor\Views\FhirViewer\Index.g.cshtml.cs
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.RazorTargetAssemblyInfo.cache
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.RazorTargetAssemblyInfo.cs
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.Views.pdb
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.dll
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.pdb
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.csproj.CopyComplete
+\\R1-UEM-1.accretivehealth.local\redirection$\US29931\Desktop\Praths\FHIRXChanger - Copy\FhirXChangerService\obj\Debug\netcoreapp2.1\FhirXChangerService.csprojAssemblyReference.cache
