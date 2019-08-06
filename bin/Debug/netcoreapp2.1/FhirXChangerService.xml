@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FhirXChangerService</name>
+    </assembly>
+    <members>
+        <member name="M:FhirXChangerService.Controllers.FhirController.Post">
+            <summary>
+            Converts XML file to FHIR json format and posts to FHIR server
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FhirXChangerService.Controllers.FhirController.Get(System.String)">
+            <summary>
+            Fetch data from Fhir server
+            </summary>
+            <param name="id">ID for the FHIR resource</param>
+            <returns></returns>
+        </member>
+        <member name="M:FhirXChangerService.Repositories.FHIRXchangerReop.Get(System.String)">
+            <summary>
+            Fetch data from Fhir server
+            </summary>
+            <param name="id">ID for the FHIR resource</param>
+            <returns></returns>
+        </member>
+        <member name="M:FhirXChangerService.Repositories.FHIRXchangerReop.Post(Hl7.Fhir.Model.Bundle)">
+            <summary>
+            Converts XML file to FHIR json format and posts to FHIR server
+            </summary>
+            <param name="bundle"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
